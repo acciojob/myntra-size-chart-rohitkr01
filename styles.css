@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table {
+  width:100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+thead{
+	color: #fff;
+	background: #ff6070;
+	
+}
+
+.row-1{
+	color:#fff;
+	background: #ff9999;
+}
+
+.row-2, .row-3{
+	background:  #ffcccc;
+}
+
+
